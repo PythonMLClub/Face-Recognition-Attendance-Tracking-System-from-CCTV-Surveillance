@@ -40,7 +40,7 @@ Visualization + Output Video Rendering
 
 ### 1. Clone the Repository
 
-git clone [https://github.com/<your-username>/ai-attendance-system](https://github.com/PythonMLClub/Face-Recognition-Attendance-Tracking-System-from-CCTV-Surveillance).git
+git clone 
 cd ai-attendance-system
 
 
