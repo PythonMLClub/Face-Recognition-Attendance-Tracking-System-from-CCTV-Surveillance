@@ -170,7 +170,10 @@ cd ai-attendance-system
   "similarity_threshold": 1.5
 }
 
-![Uploading image.png…]()
+## 🧠 System Architecture Diagram
+
+![System Flow](<img width="1422" height="350" alt="image" src="https://github.com/user-attachments/assets/eed5c76a-f5ec-4580-8c33-87491f9bf292" />)
+
 
 
 
