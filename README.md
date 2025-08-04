@@ -170,12 +170,7 @@ cd ai-attendance-system
   "similarity_threshold": 1.5
 }
 
-## 🧾 Setup Instructions
-
-### 1. Clone the Repository
-
-git clone https://github.com/<your-username>/ai-attendance-system.git
-cd ai-attendance-system
+![Uploading image.png…]()
 
 
 
