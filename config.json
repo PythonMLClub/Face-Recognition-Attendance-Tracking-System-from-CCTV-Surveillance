@@ -1,0 +1,33 @@
+{
+  "entry_video": {
+    "path": "rtsp://Texila:Dhanu@10299@192.168.1.81/Streaming/Channels/101",
+    "camera_id": "CAM-ENT-001",
+    "location": "Tidel-Park-Level-5-Main-Entry",
+    "line_type": "horizontal",
+    "line_position": 0.4,
+    "width": 1020,
+    "height": 600,
+    "fps": 5,
+    "frame_interval": 5,
+    "output_path": "output_video_entry.mp4",
+    "event_type": "Entry",
+    "display_label": "ENTRY",
+    "max_retries": 5
+  },
+  "exit_video": {
+    "path": "C:\\Users\\inc3098\\Desktop\\PHASE-1\\03062025\\deep_face\\videos\\team_exit.mp4",
+    "camera_id": "CAM-EXT-001",
+    "location": "Tidel-Park-Level-5-Main-Exit",
+    "line_type": "horizontal",
+    "line_position": 0.5,
+    "width": 1020,
+    "height": 600,
+    "frame_interval": 5,
+    "output_path": "output_video_exit.mp4",
+    "event_type": "Exit",
+    "display_label": "EXIT",
+    "debug_person_crop_dir": "debug_person_crop",
+    "debug_faces_dir": "debug_faces"
+  },
+  "similarity_threshold": 1.5
+}
